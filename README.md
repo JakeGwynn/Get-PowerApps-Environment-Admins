@@ -10,7 +10,7 @@ The flow includes only user system administrators and application type users. It
 1. Go to https://flow.microsoft.com and make sure you are in the environment you want to import the flow to.
 2. Click My Flows in the left menu.
 3. Select Import.
-4. Browse and choose the "GetallEnvironmentSystemAdmins_20230113024922.zip" package.
+4. Browse and choose the "GetallEnvironmentSystemAdmins_20230113213120.zip" package.
 5. Choose create as new.
 6. Choose Dataverse, Office 365 Groups and Power Plaform for Admins connections, or create them if these don't already exist.
 7. Click Import.
